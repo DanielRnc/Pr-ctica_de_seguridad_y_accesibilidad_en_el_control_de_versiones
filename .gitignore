@@ -1,0 +1,21 @@
+# 1. Credenciales y configuración local
+.env
+*.env
+config.local.json
+
+# 2. Archivos privados de NetBeans e IDEs
+nbproject/private/
+.vscode/
+.idea/
+
+# 3. Binarios y carpetas de compilación
+build/
+dist/
+*.class
+*.jar
+
+# 4. Archivos temporales del sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
